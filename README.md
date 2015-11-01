@@ -13,12 +13,12 @@
 3. Tìm hiểu về Loopback
  - Model *( Day 5 )*
  - Application logic *( Day 5/6 )*
-  - Remote methods *( Day 5 )*
-  - Remote hooks *( Day 5 )*
-  - Operation hooks *( Day 5 )*
-  - Model hooks *( Day 5 )*
-  - Connector hooks *( Day 6 )*
-  - Boot scripts *( Day 6 )*
+    - Remote methods *( Day 5 )*
+    - Remote hooks *( Day 5 )*
+    - Operation hooks *( Day 5 )*
+    - Model hooks *( Day 5 )*
+    - Connector hooks *( Day 6 )*
+    - Boot scripts *( Day 6 )*
  - Connector *( Day 7 )*
  - Datasource *( Day 7 )*
  - Relation *( Day 7 )*
