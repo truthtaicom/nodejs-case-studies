@@ -1,18 +1,23 @@
 [RESTFUL API LÀ GÌ](https://viblo.asia/khanhhd/posts/l5y8Rro9Mob3)
+
 [VIDEO REST APIs CONCEPT](https://www.youtube.com/watch?v=RTjd1nwvlj4)
+
 ![REST API](https://impythonist.files.wordpress.com/2015/07/rstapi.jpg)
 ![REST API](http://aci-troubleshooting-book.readthedocs.org/en/latest/_images/rest-api.jpg)
 
 EX:
-**Request**
 
-```GET /
+##Request
+
+```
+GET /
 Accept: application/json
 ```
 
-**Response**
+##Response
 
-```200 OK
+```
+200 OK
 Content-Type: application/json
 
 {
