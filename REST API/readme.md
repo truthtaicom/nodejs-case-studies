@@ -39,3 +39,5 @@ Content-Type: application/json
     ]
 }
 ```
+
+![HTTP CODE](http://blog.mainstreethost.com/wp-content/uploads/2014/09/HTTP-codes-infographic-011.jpg)
